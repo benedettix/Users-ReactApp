@@ -1,0 +1,11 @@
+.nav_links {
+    margin-right: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+.margin_auto {
+    margin-left: auto;
+}
